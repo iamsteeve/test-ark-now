@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "ark",
+  "name": "ark-test",
   "version": "2.1.0",
   "scripts": {
     "dev": "nodemon server/main.ts",
